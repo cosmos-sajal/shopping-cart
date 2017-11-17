@@ -1,1 +1,1 @@
-# redux-react-express
+# Shopping Cart
