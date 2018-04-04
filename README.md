@@ -1,3 +1,3 @@
 # Shopping Cart
 
-Demo - https://www.thecosmicexplorer.com
+Demo - http://www.thecosmicexplorer.com/
